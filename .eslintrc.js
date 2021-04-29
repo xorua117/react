@@ -7,7 +7,7 @@ const {
 
 const restrictedGlobals = require('confusing-browser-globals');
 
-const OFF = 0;
+const OFF = 1;
 const ERROR = 2;
 
 module.exports = {
